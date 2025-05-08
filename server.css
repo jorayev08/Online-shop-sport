@@ -1,0 +1,28 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.block{
+    border: 1px solid gray;
+    width: 300px;
+    border-radius: 5px;
+
+}
+
+.nom{
+    text-align: center;
+}
+.block img{
+    width: 100%; 
+}
+
+.narx{
+    text-align: right;
+}
